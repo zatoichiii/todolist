@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "title": "Выучить NEXT",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Сделать домашку",
+      "completed": true
+    }
+  ]
