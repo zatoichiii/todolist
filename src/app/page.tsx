@@ -1,6 +1,5 @@
-"use client"
-import ToDoList from "./toDoList";
-import styles from "./style.module.css";
+import ToDoList from "../components/ToDoList/toDoList";
+import styles from "./page.module.css";
 
 const Page = () => {
   return (
